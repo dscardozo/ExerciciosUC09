@@ -1,0 +1,30 @@
+I:\VisualStudio C#\Exercicios\bin\Debug\net6.0\E_1_1.exe
+I:\VisualStudio C#\Exercicios\bin\Debug\net6.0\E_1_1.deps.json
+I:\VisualStudio C#\Exercicios\bin\Debug\net6.0\E_1_1.runtimeconfig.json
+I:\VisualStudio C#\Exercicios\bin\Debug\net6.0\E_1_1.dll
+I:\VisualStudio C#\Exercicios\bin\Debug\net6.0\E_1_1.pdb
+I:\VisualStudio C#\Exercicios\obj\Debug\net6.0\E_1_1.csproj.AssemblyReference.cache
+I:\VisualStudio C#\Exercicios\obj\Debug\net6.0\E_1_1.GeneratedMSBuildEditorConfig.editorconfig
+I:\VisualStudio C#\Exercicios\obj\Debug\net6.0\E_1_1.AssemblyInfoInputs.cache
+I:\VisualStudio C#\Exercicios\obj\Debug\net6.0\E_1_1.AssemblyInfo.cs
+I:\VisualStudio C#\Exercicios\obj\Debug\net6.0\E_1_1.csproj.CoreCompileInputs.cache
+I:\VisualStudio C#\Exercicios\obj\Debug\net6.0\E_1_1.dll
+I:\VisualStudio C#\Exercicios\obj\Debug\net6.0\refint\E_1_1.dll
+I:\VisualStudio C#\Exercicios\obj\Debug\net6.0\E_1_1.pdb
+I:\VisualStudio C#\Exercicios\obj\Debug\net6.0\E_1_1.genruntimeconfig.cache
+I:\VisualStudio C#\Exercicios\obj\Debug\net6.0\ref\E_1_1.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\E_1_1.exe
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\E_1_1.deps.json
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\E_1_1.runtimeconfig.json
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\E_1_1.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\E_1_1.pdb
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\E_1_1.csproj.AssemblyReference.cache
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\E_1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\E_1_1.AssemblyInfoInputs.cache
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\E_1_1.AssemblyInfo.cs
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\E_1_1.csproj.CoreCompileInputs.cache
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\E_1_1.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\refint\E_1_1.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\E_1_1.pdb
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\E_1_1.genruntimeconfig.cache
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\ref\E_1_1.dll

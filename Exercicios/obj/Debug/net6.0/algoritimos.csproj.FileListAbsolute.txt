@@ -1,0 +1,102 @@
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/bin/Debug/net6.0/Algoritimos
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/bin/Debug/net6.0/Algoritimos.deps.json
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/bin/Debug/net6.0/Algoritimos.runtimeconfig.json
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/bin/Debug/net6.0/Algoritimos.dll
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/bin/Debug/net6.0/Algoritimos.pdb
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/obj/Debug/net6.0/Algoritimos.csproj.AssemblyReference.cache
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/obj/Debug/net6.0/Algoritimos.GeneratedMSBuildEditorConfig.editorconfig
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/obj/Debug/net6.0/Algoritimos.AssemblyInfoInputs.cache
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/obj/Debug/net6.0/Algoritimos.AssemblyInfo.cs
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/obj/Debug/net6.0/Algoritimos.csproj.CoreCompileInputs.cache
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/obj/Debug/net6.0/Algoritimos.dll
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/obj/Debug/net6.0/refint/Algoritimos.dll
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/obj/Debug/net6.0/Algoritimos.pdb
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/obj/Debug/net6.0/Algoritimos.genruntimeconfig.cache
+/media/dscardozo/ESD-USB/VisualStudio C#/repos/Exercicios/obj/Debug/net6.0/ref/Algoritimos.dll
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\Algoritimos.exe
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\Algoritimos.deps.json
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\Algoritimos.runtimeconfig.json
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\Algoritimos.dll
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\Algoritimos.pdb
+C:\Users\dscar\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.csproj.AssemblyReference.cache
+C:\Users\dscar\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dscar\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.AssemblyInfoInputs.cache
+C:\Users\dscar\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.AssemblyInfo.cs
+C:\Users\dscar\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.csproj.CoreCompileInputs.cache
+C:\Users\dscar\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.dll
+C:\Users\dscar\source\repos\Exercicios\obj\Debug\net6.0\refint\Algoritimos.dll
+C:\Users\dscar\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.pdb
+C:\Users\dscar\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.genruntimeconfig.cache
+C:\Users\dscar\source\repos\Exercicios\obj\Debug\net6.0\ref\Algoritimos.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\Algoritimos.exe
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\Algoritimos.deps.json
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\Algoritimos.runtimeconfig.json
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\Algoritimos.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\Algoritimos.pdb
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.csproj.AssemblyReference.cache
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.AssemblyInfoInputs.cache
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.AssemblyInfo.cs
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.csproj.CoreCompileInputs.cache
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\refint\Algoritimos.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.pdb
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.genruntimeconfig.cache
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\ref\Algoritimos.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.csproj.CopyComplete
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\dscar\source\repos\Exercicios\obj\Debug\net6.0\Algoritimos.csproj.CopyComplete
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\RestSharp.dll
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\dscar\source\repos\Exercicios\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\RestSharp.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\danilo.scardoso4\source\repos\Exercicios\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\Algoritimos.exe
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\Algoritimos.deps.json
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\Algoritimos.runtimeconfig.json
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\Algoritimos.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\Algoritimos.pdb
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\RestSharp.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\obj\Debug\net6.0\Algoritimos.csproj.AssemblyReference.cache
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\obj\Debug\net6.0\Algoritimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\obj\Debug\net6.0\Algoritimos.AssemblyInfoInputs.cache
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\obj\Debug\net6.0\Algoritimos.AssemblyInfo.cs
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\obj\Debug\net6.0\Algoritimos.csproj.CoreCompileInputs.cache
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\obj\Debug\net6.0\Algoritimos.csproj.CopyComplete
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\obj\Debug\net6.0\Algoritimos.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\obj\Debug\net6.0\refint\Algoritimos.dll
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\obj\Debug\net6.0\Algoritimos.pdb
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\obj\Debug\net6.0\Algoritimos.genruntimeconfig.cache
+C:\Users\dscar\OneDrive - SENAC - SP\repos\Exercicios\obj\Debug\net6.0\ref\Algoritimos.dll
